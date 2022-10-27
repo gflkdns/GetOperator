@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetOperator</string>
+    <string name="operator">unknow</string>
+</resources>
